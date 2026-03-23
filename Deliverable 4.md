@@ -1,4 +1,3 @@
-
 # Deliverable 4 — Container Deployment with Modern DevOps Practices
 
 This lab deploys a stateless open-source application — [Subnets](https://github.com/davidc/subnets).
